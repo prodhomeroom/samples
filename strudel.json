@@ -60,7 +60,7 @@
 			"op hats/open hat6.wav",
 			"op hats/open hat7.wav"
 			],		
-		"percs" [
+		"percs": [
 			"percs/perc1.wav",
 			"percs/perc2.wav",
 			"percs/perc3.wav",
@@ -83,7 +83,7 @@
 			"percs/perc20.wav",
 			"percs/perc21.wav",
 			"percs/perc22.wav"
-		],
+			],
 		"reese": {
 			"F0": "reese/KNB_F_ApplyMoisturizer08.wav",
 			"F0": "reese/KOAN_SOUND_86_bass_loop_bouncy_harmonics_F.wav",
