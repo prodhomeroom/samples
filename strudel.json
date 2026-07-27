@@ -1,0 +1,68 @@
+{
+	"_base": "https://raw.githubusercontent.com/prodhomeroom/samples/main",
+		"bd": [
+			"kicks/kick1.wav",
+			"kicks/kick2.wav",
+			"kicks/kick3.wav",
+			"kicks/kick4.wav",
+			"kicks/kick5.wav",
+			"kicks/kick6.wav",
+			"kicks/kick7.wav",
+			"kicks/kick8.wav",
+			"kicks/kick9.wav",
+			"kicks/kick10.wav",
+			"kicks/kick11.wav",
+			"kicks/kick12.wav",
+			"kicks/kick13.wav"
+			],
+		"sd": [
+			"snares/snare1.wav",
+			"snares/snare2.wav",
+			"snares/snare3.wav",
+			"snares/snare4.wav",
+			"snares/snare5.wav",
+			"snares/snare6.wav",
+			"snares/snare7.wav",
+			"snares/snare8.wav",
+			"snares/snare9.wav",
+			"snares/snare10.wav",
+			"snares/snare11.wav",
+			"snares/snare12.wav",
+			"snares/snare13.wav",
+			"snares/snare14.wav",
+			"snares/snare15.wav",
+			"snares/snare16.wav",
+			"snares/snare17.wav",
+			"snares/snare18.wav",
+			"snares/snare19.wav",
+			"snares/snare20.wav",
+			"snares/snare21.wav",
+			"snares/snare22.wav",
+			"snares/snare23.wav"
+			],
+		"hh": [
+			"cl hats/hi hat1.wav",
+			"cl hats/hi hat2.wav",
+			"cl hats/hi hat3.wav",
+			"cl hats/hi hat4.wav",
+			"cl hats/hi hat5.wav",
+			"cl hats/hi hat6.wav",
+			"cl hats/hi hat7.wav",
+			"cl hats/hi hat8.wav",
+			"cl hats/hi hat9.wav"
+			],
+		"oh": [
+			"op hats/open hat1.wav",
+			"op hats/open hat2.wav",
+			"op hats/open hat3.wav",
+			"op hats/open hat4.wav",
+			"op hats/open hat5.wav",
+			"op hats/open hat6.wav",
+			"op hats/open hat7.wav"
+			]
+}
+		
+
+
+
+		
