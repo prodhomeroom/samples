@@ -61,21 +61,21 @@
 			"op hats/open hat7.wav"
 			],		
 		"reese": {
-			"F0": "reese/KNB_F_ApplyMoisturizer08.wav"
-			"F0": "reese/KOAN_SOUND_86_bass_loop_bouncy_harmonics_F.wav"
-			"F0": "reese/KOAN_SOUND_bass_pitch_punch_07_F.wav"
-			"F0": "reese/KOAN_SOUND_bass_pitch_punch_09_F.wav"			
-			"F0": "reese/KOAN_SOUND_bass_square_ripple_05_F.wav"
-			"F0": "reese/KOAN_SOUND_bass_thick_saw_05_F.wav"
-			"F0": "reese/KOAN_SOUND_bass_thick_saw_07_F.wav"
-			"F0": "reese/KOAN_SOUND_bass_verb_reese_F.wav"
-			"F0": "reese/KOAN_SOUND_bass_wet_n_wide_02_F.wav"
-			"F0": "reese/RKU_DSP_BASSLINE_LINE012_F0.wav"
-			"F0": "reese/RKU_DSP_BASSLINE_LINE015_F0.wav"
-			"F0": "reese/RKU_DSP_BASSLINE_LINE01_F0.wav"
-			"F0": "reese/RKU_DSP_BASSLINE_LINE08_F0.wav"
-			"F0": "reese/RKU_DSP_BASSLINE_LINE09_F0.wav"
-			"F0": "reese/RKU_DSP_BASSLINE_ONESHOT_028_F0.wav"
+			"F0": "reese/KNB_F_ApplyMoisturizer08.wav",
+			"F0": "reese/KOAN_SOUND_86_bass_loop_bouncy_harmonics_F.wav",
+			"F0": "reese/KOAN_SOUND_bass_pitch_punch_07_F.wav",
+			"F0": "reese/KOAN_SOUND_bass_pitch_punch_09_F.wav",			
+			"F0": "reese/KOAN_SOUND_bass_square_ripple_05_F.wav",
+			"F0": "reese/KOAN_SOUND_bass_thick_saw_05_F.wav",
+			"F0": "reese/KOAN_SOUND_bass_thick_saw_07_F.wav",
+			"F0": "reese/KOAN_SOUND_bass_verb_reese_F.wav",
+			"F0": "reese/KOAN_SOUND_bass_wet_n_wide_02_F.wav",
+			"F0": "reese/RKU_DSP_BASSLINE_LINE012_F0.wav",
+			"F0": "reese/RKU_DSP_BASSLINE_LINE015_F0.wav",
+			"F0": "reese/RKU_DSP_BASSLINE_LINE01_F0.wav",
+			"F0": "reese/RKU_DSP_BASSLINE_LINE08_F0.wav",
+			"F0": "reese/RKU_DSP_BASSLINE_LINE09_F0.wav",
+			"F0": "reese/RKU_DSP_BASSLINE_ONESHOT_028_F0.wav",
 			"F0": "reese/RKU_DSP_BASSLINE_ONESHOT_05_F0.wav"
 			}
 }
