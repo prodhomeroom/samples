@@ -60,7 +60,7 @@
 			"op hats/open hat6.wav",
 			"op hats/open hat7.wav"
 			],
-		"synth cut": {
+		"synth": {
 			"c2": "synth cuts/synth cut1.wav",
 			"c2": "synth cuts/synth cut2.wav",
 			"c2": "synth cuts/synth cut3.wav",
@@ -79,7 +79,7 @@
 			"c2": "synth cuts/synth cut16.wav",
 			"c2": "synth cuts/synth cut17.wav"
 			},
-		"bass cut": {
+		"bass": {
 			"c1": "bass cuts/bass 1.wav",
 			"c1": "bass cuts/bass 2.wav",
 			"c1": "bass cuts/bass 3.wav",
